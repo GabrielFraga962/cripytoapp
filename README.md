@@ -1,2 +1,3 @@
 # CripytoApp
-> Status do Projeto: em produção :warning:
+
+> Status do Projeto: concluído :white_check_mark:
