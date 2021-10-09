@@ -1,6 +1,6 @@
 # CryptoApp - Explore o incrível mundo das criptomoedas
 
-![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
+![Cryptoverse](https://imgur.com/a/UNV3cmO)
 
 ## Introduction
 Este é o resultado final do projeto CryptoApp - um site onde você poderá explorar o mundo das moedas digitais.
