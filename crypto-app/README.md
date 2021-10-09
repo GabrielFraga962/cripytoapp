@@ -27,7 +27,7 @@ Para este projeto foi utilizado o Reactjs e a incrível e poderosa biblioteca de
 
    ```
    - Clone esse repositório:
-   $ git clone https://github.com/GabrielFraga962/PlayFlowApp.git
+   $ git clone https://github.com/GabrielFraga962/cripytoapp
 
    - Entre no diretório:
    $ cd crypto-app
