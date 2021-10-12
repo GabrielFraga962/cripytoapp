@@ -43,3 +43,4 @@ Para este projeto foi utilizado o Reactjs e a incrível e poderosa biblioteca de
 # Licença 📑
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://opensource.org/licenses/MIT) para mais detalhes.
+
