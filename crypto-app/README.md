@@ -14,7 +14,7 @@
 
 ---
 
-## Introdução
+## Introdução 🖋️
 
 Este é o resultado final do projeto CryptoApp - um site onde você poderá explorar o mundo das moedas digitais.
 Nele você encontrar a principal realção das criptomoedas atuais, além das noticias que envolve as mesmas. 
