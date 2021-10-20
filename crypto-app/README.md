@@ -1,5 +1,8 @@
 # CryptoApp - Explore o incrível mundo das criptomoedas ₿
 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9d3762db-078f-4641-a806-4e6b2f826ef0/deploy-status)](https://app.netlify.com/sites/cryptoappstar/deploys)
+
 - Link da aplicação [cryptoappstar](https://cryptoappstar.netlify.app/)
 
 <p align="center">
